@@ -138,3 +138,7 @@ kernel/configs/android-*.cfg
 
 # kernel build output
 out
+
+# build scripts
+regen.sh
+build.sh
