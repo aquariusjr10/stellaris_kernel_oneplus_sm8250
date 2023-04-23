@@ -142,3 +142,6 @@ out
 # build scripts
 regen.sh
 build.sh
+
+# errors output
+error.log
